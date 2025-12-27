@@ -1,0 +1,42 @@
+{
+  "orders": [
+    {
+      "id": "c544",
+      "customerName": "Ahmed Abd El-Baset Galal",
+      "address": "اسيوط - مركز ثان اسيوط ",
+      "phone": "01025939211",
+      "price": "30",
+      "status": "Delivered"
+    },
+    {
+      "id": "20c0",
+      "customerName": "Galal Abd El-Baset",
+      "address": "Assiut, Egypt",
+      "phone": "01032581322",
+      "price": "15",
+      "status": "On The Way"
+    },
+    {
+      "id": "cab0",
+      "customerName": "Ali Abd El-Baset Galal",
+      "address": "Asyut, Egypt",
+      "phone": "01025939211",
+      "price": "18",
+      "status": "Pending"
+    }
+  ],
+  "admins": [
+    {
+      "id": "aff2",
+      "email": "galal@gmail.com",
+      "password": "galal1234",
+      "role": "admin"
+    },
+    {
+      "id": "d178",
+      "email": "g@gmail.com",
+      "password": "1234",
+      "role": "admin"
+    }
+  ]
+}
