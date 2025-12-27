@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/delivery-dashboard/static/css/main.9656c378.css",
+    "main.js": "/delivery-dashboard/static/js/main.30b584d8.js",
+    "index.html": "/delivery-dashboard/index.html",
+    "main.9656c378.css.map": "/delivery-dashboard/static/css/main.9656c378.css.map",
+    "main.30b584d8.js.map": "/delivery-dashboard/static/js/main.30b584d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9656c378.css",
+    "static/js/main.30b584d8.js"
+  ]
+}
